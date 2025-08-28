@@ -2,10 +2,24 @@
 <html lang="fa">
 <head>
     <meta charset="UTF-8">
-    <title>آبید مگنا</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>آبید مگنا - معرفی روستای آبید</title>
+    <meta name="description" content="آبید مگنا یکی از زیباترین روستاهای خوزستان است. با تاریخ، فرهنگ و طایفه‌های این روستا آشنا شوید.">
+    <style>
+        body { font-family: Tahoma, sans-serif; background-color: #f9f9f9; margin: 20px; line-height: 1.6; color: #333; }
+        .container { max-width: 800px; margin: auto; background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        h1 { color: #2c3e50; }
+        img { max-width: 100%; border-radius: 10px; margin: 20px 0; }
+    </style>
 </head>
 <body>
-    <h1>سلام! این سایت آبید مگنا است.</h1>
-    <p>اگر این متن نمایش داده شد، یعنی سایت شما درست کار می‌کند.</p>
+    <div class="container">
+        <h1>روستای آبید مگنا</h1>
+        <p>آبید مگنا یکی از روستاهای تاریخی و فرهنگی استان خوزستان است. این روستا خانه طایفه‌های <strong>گنجعلی‌وند</strong>، <strong>نو</strong> و <strong>خانبابا</strong> بوده و بهنام خان، صفیر صلح و خان بزرگ روستا تلاش‌های زیادی برای آرامش و توسعه منطقه انجام داده است.</p>
+
+        <img src="images/abid.jpg" alt="نمایی از روستای آبید مگنا">
+
+        <p>آبید مگنا با چشم‌اندازهای طبیعی، تاریخچه شکارگاه‌ها و فرهنگ محلی خود، مقصدی منحصر به فرد برای بازدیدکنندگان است. این سایت برای معرفی زیبایی‌ها و شکوه این روستا ساخته شده است.</p>
+    </div>
 </body>
 </html>
